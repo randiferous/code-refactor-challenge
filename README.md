@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Challenge
 
 In this project, we were given a codebase for a company website that requires improvement. The company (our client) would like their webpage to meet accessibility standards so that it is optimized for search engines. Throughout this task, we will also be looking for ways to improve the quality of the codebase by making it "cleaner".
 
@@ -26,6 +26,6 @@ Next, we get into the coding. The following is a list of changes I made as requi
 
 In reflection of this project, I realize the important of having a careful eye for proper coding practice. Even codebases that "work" may not be ideal. I also gained more familiarity with various html and css terminology, and the relationship between these two languages.
 
-Screenshot of website top half with new title: https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-top-half.PNG
+Screenshot of website top half with new title: ![Alt text](https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-top-half.PNG)
 
-Screenshot of website bottom half (using Search Engine navigation bottom): https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-bottom-half.PNG
+Screenshot of website bottom half (using Search Engine navigation bottom): ![Alt text](https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-bottom-half.PNG)
