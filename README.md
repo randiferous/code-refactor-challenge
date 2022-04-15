@@ -6,9 +6,9 @@ The first step of this project was cloning the starter code locally and creating
 
 Next, we get into the coding. The following is a list of changes I made as required by the "Acceptance Criteria" or that I deemed necessary for the improvement of the codebase:
 
-- Changed all <div> and <span> tags to more descriptive elements, such as <nav>, <aside>, and <article> (among others).
+- Changed all "div" and "span" tags to more descriptive elements, such as "nav", "aside", and "article" (among others).
 
-- In order to complement the previous changes, I had to correct an element in the stylesheet from <div> to <nav> so that its properties are still applied.
+- In order to complement the previous changes, I had to correct an element in the stylesheet from "div" to "nav" so that its properties are still applied.
 
 - Created a website title, "Explore Your Horiseon".
 
@@ -28,4 +28,4 @@ In reflection of this project, I realize the important of having a careful eye f
 
 Screenshot of website top half with new title: ![Alt text](https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-top-half.PNG)
 
-Screenshot of website bottom half (using Search Engine navigation bottom): ![Alt text](https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-bottom-half.PNG)
+Screenshot of website bottom half (using Search Engine navigation button): ![Alt text](https://raw.githubusercontent.com/randiferous/code-refactor-challenge/main/assets/images/screenshot-bottom-half.PNG)
